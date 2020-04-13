@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class Lesson2 {
 
     public static void main(String[] args) {
-        //array1();
-       // array2();
-        //array3();
-        //array4();
+        array1();
+        array2();
+        array3();
+        array4();
         array5();
     }
 
