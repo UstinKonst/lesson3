@@ -9,6 +9,7 @@ public class Lesson3 {
     static Random random = new Random();
 
     public static void main(String[] args) {
+        int b;
         System.out.println("Угадайте число от 0 до 9, у вас есть 3 попытки");
         for (;;) {
             pass();
