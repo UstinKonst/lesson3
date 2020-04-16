@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Lesson3 {
-    // Задача 1
+    // Задание 1
     static Scanner sc = new Scanner(System.in);
     static Random random = new Random();
 
